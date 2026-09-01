@@ -9,7 +9,7 @@
 
 <br />
 
-<a href="https://weao.wtf"><img src="https://img.shields.io/badge/weao.xyz-000000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="weao.xyz" /></a>
+<a href="https://weao.wtf"><img src="https://img.shields.io/badge/weao.wtf-000000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="weao.wtf" /></a>
 <a href="https://jewguard.xyz"><img src="https://img.shields.io/badge/jewguard.xyz-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=000000" alt="jewguard.xyz" /></a>
 
 <br />
